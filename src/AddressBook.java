@@ -29,4 +29,8 @@ public class AddressBook {
         //test comment
         //github comment
     }
+
+    public int getBUddyCount(){
+        return buddies.size();
+    }
 }
